@@ -1,2 +1,2 @@
-# Atividades-complementares-Java
+# Java
 Diversas atividades feitas durante a disciplina de Linguagem de Programação II
